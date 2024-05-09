@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@monitoring": ["libs/features/monitoring/src/index.ts"],
+      "@notifications": ["libs/features/notifications/src/index.ts"],
+      "@responsibles": ["libs/features/responsibles/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
