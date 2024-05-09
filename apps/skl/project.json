@@ -51,7 +51,8 @@
           "buildTarget": "skl:build:production"
         },
         "development": {
-          "buildTarget": "skl:build:development"
+          "buildTarget": "skl:build:development",
+          "port": 8999
         }
       },
       "defaultConfiguration": "development"

@@ -1,8 +1,10 @@
 {
-  "name": "@skl/source",
-  "version": "0.0.0",
+  "name": "evolution",
+  "version": "1.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "nx serve"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~17.3.0",
