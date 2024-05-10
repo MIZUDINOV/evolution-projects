@@ -1,7 +1,2 @@
-# notifications
-
-This library was generated with [Nx](https://nx.dev).
-
-## Running unit tests
-
-Run `nx test notifications` to execute the unit tests.
+## Уведомления
+Модуль главной страницы приложений, в которой содержатся уведомления от различных организаций и, в котором можно получать/отправлять уведомления и работать с ними.
